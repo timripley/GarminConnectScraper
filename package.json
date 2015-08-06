@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "x-ray": "^2.0.2",
+    "x-ray-phantom": "^1.0.1"
+  }
+}
